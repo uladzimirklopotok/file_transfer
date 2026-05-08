@@ -5,20 +5,21 @@
 
 1. At the buttom of administration menu at the left side find: <b>License </b> and choose U
 
-<h3>Picture 1</h3>
 ![Choosing a subscription plan](images/plan.png)
-
+<h6>Picture 1</h6>
 After you press <b>Subscribe </b> appear the menu: 
 
-<h4>picture 2</h4>
-![step 2](images/pay.png)
 
+![step 2](images/pay.png)
+<h6>picture2</h6>
 
 Press <b>Request pricing</b>
 shows menu - filling fields
 
-<h5>picture 3</h5>
+
 ![step 2](images/pay2.png)
+<h6>picture 3</h6>
+
 
 after fillig all fields and accepting the pricing policy - press <b>Submit </b>
 it will sent request to support team
