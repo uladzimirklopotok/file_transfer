@@ -4,7 +4,7 @@
 
 <pre>tips: Cert as usual store in Downloads folder</pre> 
 
-1. At the buttom of administration menu at the left side find: <b>License </b> and choose U
+1. 
 
 ![Choosing a subscription plan](Pic/mac_mail.png)
 <h6>Picture 1</h6>
