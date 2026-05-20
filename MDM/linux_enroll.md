@@ -15,7 +15,13 @@ sudo ./config</i>
 
 2. Проверяем работоспособность службы ssh
 
-<pre> <i>sudo systemctl status sshd.service</i><pre>
+<pre><i>sudo systemctl status sshd.service</i><pre>
 
 
 если служба отсутвует, устанавливаем и запускаем ее
+
+<pre><i>sudo apt install openssh-server -y
+systemctl enable --now ssh</i><pre> 
+
+
+<b>Готово!</b>
