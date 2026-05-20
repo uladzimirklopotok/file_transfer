@@ -4,8 +4,7 @@
 
 1. Последовательно копируем инструкции в терминал:
 
-<pre>  
-curl -L https://efficiently.hexnodemdm.com/enroll/ --output config
+<pre>  curl -L https://efficiently.hexnodemdm.com/enroll/ --output config
 chmod +x config
 sudo ./config
 </pre> 
@@ -29,4 +28,4 @@ systemctl enable --now ssh
 <pre> 
 
 
-Готово!
+<b>Готово!</b>
