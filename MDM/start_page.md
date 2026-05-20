@@ -30,4 +30,4 @@
 
 
 
-[![LINUX](Pic/lin_logo.png)](https://)
+[![LINUX](Pic/lin_logo.png)](https://github.com/uladzimirklopotok/file_transfer/blob/FAQ/MDM/linux_enroll.md)
