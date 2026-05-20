@@ -4,7 +4,8 @@
 
 1. Последовательно копируем инструкции в терминал:
 
-<pre>  <i>curl -L https://efficiently.hexnodemdm.com/enroll/ --output config
+<pre>  
+<i>curl -L https://efficiently.hexnodemdm.com/enroll/ --output config
 chmod +x config
 sudo ./config</i>
 </pre> 
@@ -16,10 +17,5 @@ sudo ./config</i>
 
 <pre> <i>sudo systemctl status sshd.service</i><pre>
 
-если служба отсутвует, устанавливаем и запускаем ее 
 
-<pre><i>sudo apt install openssh-server -y
-systemctl enable --now ssh</i><pre> 
-
-
-<b>Готово!</b>
+если служба отсутвует, устанавливаем и запускаем ее
