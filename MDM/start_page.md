@@ -1,4 +1,4 @@
-# <h1>Hexnode: <b>Choose your destiny:</b> </h1>
+# <h1>Hexnode: <b>Choose your destiny</b> </h1>
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-[![MACOS](Pic/mac_logo.png)](https://https://github.com/uladzimirklopotok/file_transfer/blob/FAQ/MDM/import_security_profile.md)
+[![MACOS](Pic/mac_logo.png)](https://github.com/uladzimirklopotok/file_transfer/blob/FAQ/MDM/import_security_profile.md)
 
 
 
