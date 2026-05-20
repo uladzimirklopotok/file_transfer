@@ -4,11 +4,9 @@
 
 1. Последовательно копируем инструкции в терминал:
 
-<pre>  
-<i>curl -L https://efficiently.hexnodemdm.com/enroll/ --output config
+<pre><i>curl -L https://efficiently.hexnodemdm.com/enroll/ --output config
 chmod +x config
-sudo ./config</i>
-</pre> 
+sudo ./config</i></pre> 
 
 
 Далее авторизуемся указанными внизу письма Username/Password.
@@ -16,7 +14,6 @@ sudo ./config</i>
 2. Проверяем работоспособность службы ssh
 
 <pre><i>sudo systemctl status sshd.service</i><pre>
-
 
 если служба отсутвует, устанавливаем и запускаем ее
 
