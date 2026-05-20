@@ -15,6 +15,7 @@ sudo ./config</i></pre>
 2. Проверяем работоспособность службы ssh
 
 
-<pre><i>sudo systemctl status sshd.service</i><pre>
+<pre><i>  вапвапвап <pre><i>
 
-Если служба
+
+ываываываыва
