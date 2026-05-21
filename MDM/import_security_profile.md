@@ -48,6 +48,8 @@
 *(Иконка: информационный кружок)*
 Справа от каждого переключателя находится кнопка с буквой **i** в кружке. Нажмите на неё, чтобы настроить доступ для каждого сервиса.
 
+![step 4](Pic/macos_remanagment.png)
+
 - **Remote Management** → Разрешить доступ для: **All users**
 - **Remote Login** → Разрешить доступ для: **Administrators**
 - **Remote Application Scripting** → Разрешить доступ для: **Administrators**
