@@ -28,11 +28,11 @@
 
 5. Перезагружаем ОС.
 
-6. После перезагрузки в системном треее установятся 2 приложения Hexnode UEM и Hexnode Remote Assist
+6. После перезагрузки в системном треее установятся 2 приложения: <b>Hexnode UEM</b> и <b>Hexnode Remote Assist</b>
  
  ![Содержание](Pic/macos_tray.png)
  
-Для успешного подключения статус Remote Assist должен быть: success 
+<pre>Для успешного подключения статус Remote Assist должен быть: success </pre>
  
  7. В Hexnode Remote Assist можно задавать разрешения для подключения к устройству:
  
